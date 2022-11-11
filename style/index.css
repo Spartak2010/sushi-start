@@ -41,7 +41,7 @@ header button:hover {
 }
 
 .first-screen {
-	background-image: url("/img/image\ 1.jpg");
+	background-image: url("../img/image_1.jpg");
 	height: 100vh;
 	position: relative;
 	z-index: 0;
